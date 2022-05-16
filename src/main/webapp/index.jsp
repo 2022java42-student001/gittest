@@ -8,5 +8,6 @@
 </head>
 <body>
 	Hello jsp
+	Hello jsp2
 </body>
 </html>
